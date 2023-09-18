@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     myLogger = linkedInLogger()
     time.sleep(2)
-    myLogger.login_to_linkedin('shriramuar.201me155@nitk.edu.in', 'Linkedin@2020')
+    myLogger.login_to_linkedin('', '')
     time.sleep(4)
     groupNum = myLogger.getGroupNum('NIT (KREC) Surathkal')
     time.sleep(6)
